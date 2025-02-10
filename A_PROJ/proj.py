@@ -55,6 +55,10 @@ class Var :
     iid = 'IID'
     wgs_gt = 'wgs_gt'
     imp_gt = 'imp_gt'
+    id_1 = 'ID_1'
+    id_2 = 'ID_2'
+    id1 = 'ID1'
+    id2 = 'ID2'
 
 VAR = Var()
 V = VAR
